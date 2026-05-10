@@ -72,7 +72,9 @@ This improves maintainability and scalability for future enhancements.
 ## Assignment Information
 
 **Unit:** COMP2008 Mobile Application Development  
+
 **Assignment:** Assignment 1 – Catalog App 
+
 **Semester:** 2025, Semester 2
 
 <p align="center">
